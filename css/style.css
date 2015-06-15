@@ -39,7 +39,7 @@ body{
 .header {
   background: url("../images/banner.jpg")no-repeat 0px 0px;
   background-size:cover;
-  min-height: 790px;
+  min-height: 640px;
   text-align: center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -370,7 +370,7 @@ a.button {
   transform: scaleY(0);
 }
 .categories-section {
-  padding: 4em 0;
+  padding: 1em 0;
   background:#3f454d;
 }
 .cat h3 {
